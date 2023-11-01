@@ -1,0 +1,107 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Archivos\\Titulacion\\Udla.WinserviceCoreTemplate.Solution\\Udla.WinserviceCoreTemplate.WinFormStart\\Udla.WinserviceCoreTemplate.WinFormStart.csproj": {}
+  },
+  "projects": {
+    "C:\\Archivos\\Titulacion\\Udla.WinserviceCoreTemplate.Solution\\Udla.WinserviceCoreTemplate.WinFormStart\\Udla.WinserviceCoreTemplate.WinFormStart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Archivos\\Titulacion\\Udla.WinserviceCoreTemplate.Solution\\Udla.WinserviceCoreTemplate.WinFormStart\\Udla.WinserviceCoreTemplate.WinFormStart.csproj",
+        "projectName": "Udla.UdlaServiceExtractInfoTeams.WinFormStart",
+        "projectPath": "C:\\Archivos\\Titulacion\\Udla.WinserviceCoreTemplate.Solution\\Udla.WinserviceCoreTemplate.WinFormStart\\Udla.WinserviceCoreTemplate.WinFormStart.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Archivos\\Titulacion\\Udla.WinserviceCoreTemplate.Solution\\Udla.WinserviceCoreTemplate.WinFormStart\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Archivos\\Titulacion\\Udla.WinserviceCoreTemplate.Solution\\Udla.UdlaServiceExtractInfoTeams.Business\\Udla.UdlaServiceExtractInfoTeams.Business.csproj": {
+                "projectPath": "C:\\Archivos\\Titulacion\\Udla.WinserviceCoreTemplate.Solution\\Udla.UdlaServiceExtractInfoTeams.Business\\Udla.UdlaServiceExtractInfoTeams.Business.csproj"
+              },
+              "C:\\Archivos\\Titulacion\\Udla.WinserviceCoreTemplate.Solution\\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\\Udla.UdlaServiceExtractInfoTeams.WinServiceLib.csproj": {
+                "projectPath": "C:\\Archivos\\Titulacion\\Udla.WinserviceCoreTemplate.Solution\\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\\Udla.UdlaServiceExtractInfoTeams.WinServiceLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

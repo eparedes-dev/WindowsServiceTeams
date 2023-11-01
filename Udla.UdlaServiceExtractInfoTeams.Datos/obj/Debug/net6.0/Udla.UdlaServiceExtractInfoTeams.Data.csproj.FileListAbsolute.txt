@@ -1,0 +1,13 @@
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.Datos\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Data.dll.config
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.Datos\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Data.deps.json
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.Datos\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Data.runtimeconfig.json
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.Datos\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Data.dll
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.Datos\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Data.pdb
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.Datos\obj\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Data.csproj.AssemblyReference.cache
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.Datos\obj\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.Datos\obj\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Data.csproj.CoreCompileInputs.cache
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.Datos\obj\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Data.dll
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.Datos\obj\Debug\net6.0\refint\Udla.UdlaServiceExtractInfoTeams.Data.dll
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.Datos\obj\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Data.pdb
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.Datos\obj\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Data.genruntimeconfig.cache
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.Datos\obj\Debug\net6.0\ref\Udla.UdlaServiceExtractInfoTeams.Data.dll

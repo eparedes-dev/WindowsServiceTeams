@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup Label="Globals">
+    <SccProjectName></SccProjectName>
+    <SccProvider></SccProvider>
+    <SccAuxPath></SccAuxPath>
+    <SccLocalPath></SccLocalPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>Udla.UdlaServiceExtractInfoTeamsUdlaServiceExtractInfoTeams.WinServiceLib</AssemblyName>
+	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	<ApplicationIcon />
+	<StartupObject />
+	<RootNamespace>Udla.UdlaServiceExtractInfoTeams.WinServiceLib</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="log4net" Version="2.0.12" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.56.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Server\WinServices\CoreTemplate\Engines\DataReaders\" />
+    <Folder Include="Server\WinServices\CoreTemplate\Engines\Resources\" />
+    <Folder Include="Server\WinServices\CoreTemplate\Engines\Transactions\BD\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Udla.UdlaServiceExtractInfoTeams.Business\Udla.UdlaServiceExtractInfoTeams.Business.csproj" />
+    <ProjectReference Include="..\Udla.UdlaServiceExtractInfoTeams.Datos\Udla.UdlaServiceExtractInfoTeams.Data.csproj" />
+    <ProjectReference Include="..\Udla.UdlaServiceExtractInfoTeams.Modelos\Udla.UdlaServiceExtractInfoTeams.Modelos.csproj" />
+    <ProjectReference Include="..\Udla.UdlaServiceExtractInfoTeams.Utilitarios\Udla.UdlaServiceExtractInfoTeams.Util.csproj" />
+  </ItemGroup>
+</Project>

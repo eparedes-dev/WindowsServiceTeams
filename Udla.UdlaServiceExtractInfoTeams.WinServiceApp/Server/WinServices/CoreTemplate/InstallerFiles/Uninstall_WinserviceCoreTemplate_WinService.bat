@@ -1,0 +1,7 @@
+SET SERVICENAME=sc delete "UdlaUdlaServiceExtractInfoTeams"
+
+SET SERVICEDIRECTORYPATH= BinPath="C:\Program Files\UDLA\UdlaSDSTeamsSincronizationWinService\bin"
+SET SERVICEFILENAME=Udla.UdlaServiceExtractInfoTeams.WinServiceApp.exe
+
+SET SERVICEFILEPATH=%SERVICEDIRECTORYPATH%\%SERVICEFILENAME%
+%SERVICENAME% %SERVICEFILEPATH%

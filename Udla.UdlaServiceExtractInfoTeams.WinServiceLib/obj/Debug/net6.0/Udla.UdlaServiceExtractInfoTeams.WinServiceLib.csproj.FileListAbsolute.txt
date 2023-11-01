@@ -1,0 +1,20 @@
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeamsUdlaServiceExtractInfoTeams.WinServiceLib.deps.json
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeamsUdlaServiceExtractInfoTeams.WinServiceLib.dll
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeamsUdlaServiceExtractInfoTeams.WinServiceLib.pdb
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams UdlaServiceExtractInfoTeams.Modelos.dll
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Data.dll
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Util.dll
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeamsUdlaServiceExtractInfoTeams.Business.dll
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeamsUdlaServiceExtractInfoTeams.Business.pdb
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Data.pdb
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Data.dll.config
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams UdlaServiceExtractInfoTeams.Modelos.pdb
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\bin\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.Util.pdb
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\obj\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.WinServiceLib.csproj.AssemblyReference.cache
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\obj\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.WinServiceLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\obj\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.WinServiceLib.csproj.CoreCompileInputs.cache
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\obj\Debug\net6.0\Udla.UdlaServiceExtractInfoTeams.WinServiceLib.csproj.CopyComplete
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\obj\Debug\net6.0\Udla.UdlaServiceExtractInfoTeamsUdlaServiceExtractInfoTeams.WinServiceLib.dll
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\obj\Debug\net6.0\refint\Udla.UdlaServiceExtractInfoTeamsUdlaServiceExtractInfoTeams.WinServiceLib.dll
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\obj\Debug\net6.0\Udla.UdlaServiceExtractInfoTeamsUdlaServiceExtractInfoTeams.WinServiceLib.pdb
+C:\Archivos\Titulacion\Udla.UdlaServiceExtractInfoTeams.Solution\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\obj\Debug\net6.0\ref\Udla.UdlaServiceExtractInfoTeamsUdlaServiceExtractInfoTeams.WinServiceLib.dll

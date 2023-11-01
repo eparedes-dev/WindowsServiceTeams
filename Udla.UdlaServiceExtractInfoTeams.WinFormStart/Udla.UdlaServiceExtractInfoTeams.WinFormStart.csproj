@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName></SccProjectName>
+    <SccProvider></SccProvider>
+    <SccAuxPath></SccAuxPath>
+    <SccLocalPath></SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>Udla.UdlaServiceExtractInfoTeams.WinFormStart</AssemblyName>
+    <RootNamespace>Udla.UdlaServiceExtractInfoTeams.WinFormStart</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="log4net" Version="2.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Udla.UdlaServiceExtractInfoTeams.Business\Udla.UdlaServiceExtractInfoTeams.Business.csproj" />
+    <ProjectReference Include="..\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\Udla.UdlaServiceExtractInfoTeams.WinServiceLib.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

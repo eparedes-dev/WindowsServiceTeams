@@ -1,0 +1,464 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.WinServiceApp\\Udla.UdlaServiceExtractInfoTeams.WinServiceApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Business\\Udla.UdlaServiceExtractInfoTeams.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Business\\Udla.UdlaServiceExtractInfoTeams.Business.csproj",
+        "projectName": "Udla.UdlaServiceExtractInfoTeamsUdlaServiceExtractInfoTeams.Business",
+        "projectPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Business\\Udla.UdlaServiceExtractInfoTeams.Business.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Datos\\Udla.UdlaServiceExtractInfoTeams.Data.csproj": {
+                "projectPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Datos\\Udla.UdlaServiceExtractInfoTeams.Data.csproj"
+              },
+              "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Modelos\\Udla.UdlaServiceExtractInfoTeams.Modelos.csproj": {
+                "projectPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Modelos\\Udla.UdlaServiceExtractInfoTeams.Modelos.csproj"
+              },
+              "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Utilitarios\\Udla.UdlaServiceExtractInfoTeams.Util.csproj": {
+                "projectPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Utilitarios\\Udla.UdlaServiceExtractInfoTeams.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.10.2, )"
+            },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[5.30.0, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.56.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Datos\\Udla.UdlaServiceExtractInfoTeams.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Datos\\Udla.UdlaServiceExtractInfoTeams.Data.csproj",
+        "projectName": "Udla.UdlaServiceExtractInfoTeams.Data",
+        "projectPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Datos\\Udla.UdlaServiceExtractInfoTeams.Data.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.19.101, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Modelos\\Udla.UdlaServiceExtractInfoTeams.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Modelos\\Udla.UdlaServiceExtractInfoTeams.Modelos.csproj",
+        "projectName": "Udla.UdlaServiceExtractInfoTeams UdlaServiceExtractInfoTeams.Modelos",
+        "projectPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Modelos\\Udla.UdlaServiceExtractInfoTeams.Modelos.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Utilitarios\\Udla.UdlaServiceExtractInfoTeams.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Utilitarios\\Udla.UdlaServiceExtractInfoTeams.Util.csproj",
+        "projectName": "Udla.UdlaServiceExtractInfoTeams.Util",
+        "projectPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Utilitarios\\Udla.UdlaServiceExtractInfoTeams.Util.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Utilitarios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.WinServiceApp\\Udla.UdlaServiceExtractInfoTeams.WinServiceApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.WinServiceApp\\Udla.UdlaServiceExtractInfoTeams.WinServiceApp.csproj",
+        "projectName": "Udla.UdlaServiceExtractInfoTeamsUdlaServiceExtractInfoTeams.WinServiceApp",
+        "projectPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.WinServiceApp\\Udla.UdlaServiceExtractInfoTeams.WinServiceApp.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.WinServiceApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Business\\Udla.UdlaServiceExtractInfoTeams.Business.csproj": {
+                "projectPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Business\\Udla.UdlaServiceExtractInfoTeams.Business.csproj"
+              },
+              "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\\Udla.UdlaServiceExtractInfoTeams.WinServiceLib.csproj": {
+                "projectPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\\Udla.UdlaServiceExtractInfoTeams.WinServiceLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MicroKnights.Log4NetAdoNetAppender": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.ServiceProcess.ServiceController": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "TopShelf.ServiceInstaller": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\\Udla.UdlaServiceExtractInfoTeams.WinServiceLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\\Udla.UdlaServiceExtractInfoTeams.WinServiceLib.csproj",
+        "projectName": "Udla.UdlaServiceExtractInfoTeamsUdlaServiceExtractInfoTeams.WinServiceLib",
+        "projectPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\\Udla.UdlaServiceExtractInfoTeams.WinServiceLib.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.WinServiceLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Business\\Udla.UdlaServiceExtractInfoTeams.Business.csproj": {
+                "projectPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Business\\Udla.UdlaServiceExtractInfoTeams.Business.csproj"
+              },
+              "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Datos\\Udla.UdlaServiceExtractInfoTeams.Data.csproj": {
+                "projectPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Datos\\Udla.UdlaServiceExtractInfoTeams.Data.csproj"
+              },
+              "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Modelos\\Udla.UdlaServiceExtractInfoTeams.Modelos.csproj": {
+                "projectPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Modelos\\Udla.UdlaServiceExtractInfoTeams.Modelos.csproj"
+              },
+              "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Utilitarios\\Udla.UdlaServiceExtractInfoTeams.Util.csproj": {
+                "projectPath": "C:\\Archivos\\Titulacion\\Udla.UdlaServiceExtractInfoTeams.Solution\\Udla.UdlaServiceExtractInfoTeams.Utilitarios\\Udla.UdlaServiceExtractInfoTeams.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.56.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
